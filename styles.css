@@ -1,1 +1,22 @@
-/* Write your CSS here! */
+a:link, a:visited {
+    color: red;
+    text-decoration: none;
+}
+
+a:link:active, a:hover {
+    color: green;
+}
+
+header {
+    text-align: center;
+}
+
+article {
+    margin: 25px 50px;
+    padding: 20px;
+    background-color: lightgrey;
+}
+
+h3 {
+    text-align: center;
+}
