@@ -58,6 +58,11 @@ img {
     width: 50%;
   }
 
+  audio::-webkit-media-controls-panel {
+    background-color: #add8e6;
+  }
+  
+
 /* source: https://christopheraue.net/design/fading-pages-on-load-and-unload */
 
   #fader {
