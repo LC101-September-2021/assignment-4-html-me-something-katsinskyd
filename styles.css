@@ -61,6 +61,12 @@ img {
   audio::-webkit-media-controls-panel {
     background-color: #add8e6;
   }
+
+  audio {
+      position: fixed;
+      bottom: 10px;
+      right: 10px;
+  }
   
 
 /* source: https://christopheraue.net/design/fading-pages-on-load-and-unload */
